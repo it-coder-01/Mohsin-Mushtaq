@@ -1,0 +1,30 @@
+*{
+    margin: 0%;
+    padding: 0%;
+  background-color:black;
+    font-size:0.875rem;
+    font-weight:450;
+    font-style:normal;
+    color:white !important;
+}
+body{
+    background-color: black !important;
+}
+.layout{
+    width:80%;
+    font-size:0.875rem;
+
+}
+.main{
+    display: flex;
+    justify-content: center;
+}
+.hoja{
+   font-size:0.8rem;
+   font-weight: bold;
+    font-style:normal;
+    color:red !important;
+}
+.line{
+border-top:1px white solid;
+}
