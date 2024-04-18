@@ -1,0 +1,35 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+body{
+    background-color: black !important;
+}
+.menu{
+    background-color: #f3f3f3;
+}
+.zonglogo{
+    width:110px;
+    height:50px;
+}
+.colour{
+    background-color: #f3f3f3 !important;
+
+}
+.chinees{
+    width:80px;
+    height:40px;
+    
+}
+.gaap{
+    margin-left: 8rem !important;
+    font-size:14px;
+    font-weight:600;
+    font-style: normal;
+    font-family:'geogrotesque rg', sans-serif;
+}
+ul :hover{
+    color: #e40076 !important;
+    border-bottom: solid 2px #8cc63e;
+}
