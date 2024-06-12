@@ -170,3 +170,32 @@ float: center;
     border-radius: 20px;
     border: #e40076 solid 1px;
 }
+.Broadband{
+    background-color: #f2f2f2;
+   height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.stylish{
+   /* background-color:aqua;*/
+    height:300px;
+   width: 300px;
+}
+
+.dairy1{
+    width: 600px;
+}
+
+.dairy{
+    
+   height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.headline{
+    width: 100%;
+    height: 50px;
+    background-color:black;
+}
