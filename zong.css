@@ -177,14 +177,28 @@ float: center;
     justify-content: center;
     align-items: center;
 }
+.bolt1{
+    width:800px;
+}
+.patti , .lines{
+    color:#8cc63e;
+    font-size:60px;
+    font-weight: 500;
+}
+.patti-para , .lines-para{
+    font-size: larger;
+    font-weight: 500;
+}
 .stylish{
    /* background-color:aqua;*/
     height:300px;
-   width: 300px;
+   width: 450px;
 }
 
 .dairy1{
-    width: 600px;
+    width: 750px;
+    height:400px;
+
 }
 
 .dairy{
@@ -198,4 +212,30 @@ float: center;
     width: 100%;
     height: 50px;
     background-color:black;
+}
+
+.pinky{
+    color:#e40076;
+}
+.greenish{
+    color:#8cc63e;
+    font-size: larger;
+    font-weight: 600;
+}
+.boldd{
+    font-size: larger;
+    font-weight: 700;
+}
+.priceses{
+    color:#e40076;
+    font-size: larger;
+    font-weight: 600;
+}
+.clivk001{
+    width: 200px;
+    height: 40px;
+    background-color:#e40076;
+    color:white;
+    border-radius: 20px;
+    border: #e40076 solid 1px;
 }
